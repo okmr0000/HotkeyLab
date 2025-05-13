@@ -1,0 +1,11 @@
+# Build outputs
+build/
+*.plugin
+
+# IDE files
+.vscode/
+*.xcodeproj/
+*.xcworkspace/
+
+# OS files
+.DS_Store 

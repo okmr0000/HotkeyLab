@@ -1,0 +1,15 @@
+// RGBDelay_Strings.cpp
+#include "AEConfig.h"
+#include "entry.h"
+#include "AE_Effect.h"
+#include "AE_EffectCB.h"
+#include "Param_Utils.h"
+#include "AE_Macros.h"
+#include "String_Utils.h"
+#include "RGBDelay_Strings.h"
+
+char *StrTable[] = {
+    "RGBDelay",                // StrID_Name
+    "RGBごとにディレイをかけるサンプルプラグイン", // StrID_Description
+    // ...他にも必要な文字列
+};
