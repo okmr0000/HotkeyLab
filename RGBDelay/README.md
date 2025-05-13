@@ -44,8 +44,9 @@ RGBDelayは、After Effects用のRGBチャンネルディレイエフェクト�
 ## ライセンス
 MIT License
 
-## 作者
+## 作者・連絡先
 Tsuyoshi Okumura/Hotkey ltd.
+- X（旧Twitter）: [@okmura](https://x.com/okmura)
 
 ## 今後の予定
 - Windows版の開発
