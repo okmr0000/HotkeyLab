@@ -2,7 +2,8 @@
 
 After Effects用のRGBチャンネルディレイエフェクトプラグイン
 
-![RGBDelay Screenshot](docs/images/rgbdelay-screenshot.png)
+![RGBDelay Screenshot](RGBDelay/docs/images/rgbdelay-screenshot.png)
+
 
 ## 概要
 RGBDelayは、After Effects用のRGBチャンネルディレイエフェクトプラグインです。各RGBチャンネルごとに独立したディレイ時間を設定でき、クリエイティブな映像効果を実現します。
